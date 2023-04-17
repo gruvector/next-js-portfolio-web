@@ -19,7 +19,7 @@ function Navbar({ router }) {
 
         <ul className="nav-links">
           {navs.map((nav) => (
-            <li data-cy={nav.dataCy} key={nav.href}>
+            <li data-cy={nav.dataCy} key={`nav-${nav.href}`}>
               <Link
                 href={nav.href}
                 className={`nav-item ${
