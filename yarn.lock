@@ -2504,10 +2504,10 @@ eslint-config-react-app@7.0.1:
     eslint-plugin-react-hooks "^4.3.0"
     eslint-plugin-testing-library "^5.0.1"
 
-eslint-config-upleveled@4.0.13:
-  version "4.0.13"
-  resolved "https://registry.yarnpkg.com/eslint-config-upleveled/-/eslint-config-upleveled-4.0.13.tgz#1f3458fd956d373558090a6259d48b42a1be17fb"
-  integrity sha512-ORkHIqfJLotFmDn9k7V6d2HNRyBPk5Yz9jqVtPBNUkGBKlyVk/FG/wslsaZVkalsckkHbujDgxlM5G64wls9Zg==
+eslint-config-upleveled@4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-upleveled/-/eslint-config-upleveled-4.1.1.tgz#1b1a56374903e73772bee8e090ab8f097a4ebc0b"
+  integrity sha512-Mcp1YkqT8V/bhI1bbWfrLIRDMUWYk1ZDxbM8QQ938/VXzmqNLL6me0fHt+TZ8PJMg3DeOODqjGcpY4QhmG86hw==
 
 eslint-import-resolver-node@^0.3.7:
   version "0.3.7"
