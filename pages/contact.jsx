@@ -13,7 +13,7 @@ function Contact() {
       <section className="hero">
         <div className="container">
           <div className="text-wrapper w-full">
-            <h1 data-cy="pageTitle" className="title">
+            <h1 data-test-id="pageTitle" className="title">
               Contact
             </h1>
             <p className="description">

@@ -14,7 +14,7 @@ function Home() {
       <section className="hero">
         <div className="container">
           <div className="text-wrapper">
-            <h1 data-cy="homePageTitle" className="title">
+            <h1 data-test-id="pageTitle" className="title">
               Halo, saya Lutfhi Ramadhan
             </h1>
             <p className="description">
