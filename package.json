@@ -29,7 +29,7 @@
     "@typescript-eslint/parser": "6.7.4",
     "eslint": "8.51.0",
     "eslint-config-upleveled": "5.0.5",
-    "postcss": "8.4.29",
+    "postcss": "8.4.31",
     "stylelint": "15.10.3",
     "stylelint-config-upleveled": "1.0.2",
     "typescript": "5.2.2"
