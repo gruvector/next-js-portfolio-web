@@ -1,7 +1,9 @@
 import Link from 'next/link';
-import { withRouter } from 'next/router';
+import { useRouter } from 'next/router';
 
-function Navbar({ router }) {
+export default function Navbar() {
+  const router = useRouter();
+
   const navs = [
     { text: 'Home', href: '/', dataCy: 'homePageLink' },
     { text: 'About', href: '/about', dataCy: 'aboutPageLink' },
@@ -35,5 +37,3 @@ function Navbar({ router }) {
     </nav>
   );
 }
-
-export default withRouter(Navbar);
