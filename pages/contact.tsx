@@ -7,9 +7,7 @@ function Contact() {
       <Head>
         <title>Contact</title>
       </Head>
-
       <Navbar />
-
       <section className="hero">
         <div className="container">
           <div className="text-wrapper w-full">
